@@ -1,8 +1,19 @@
-# Hi, I'm Zach :wave:
- 
+# Hi, I'm Troleomotor10 :wave:
+
+Software engineering student and aspiring software entrepreneur with  
+a focus on modular software and clean code.
+
+Interested in building fun, interactive, and beautiful experiences  
+(front-end/graphics/games/VR/creative coding).  
+
+### Top Repositories ###
+
+![Troleomotor10 Github stats](https://github-readme-stats.vercel.app/api?username=Troleomotor10&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast)
+![Troleomotor10 Github most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=troleomotor10&theme=highcontrast&hide_langs_below=4)
+
 ---
 
-<a href="mailto:duongnguyen18@siggraph.org">
+<a href="mailto:troleomotor10@gmail.com">
     <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
 
@@ -14,18 +25,6 @@
     <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
 </a>
 
-<a href="https://www.buymeacoffee.com/cszach">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
-</a>
-
-<a href="https://liberapay.com/cszach">
-    <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
-</a>
-
 <a href="https://www.instagram.com/thechonkypenguin">
     <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
-</a>
-
-<a href="https://dribbble.com/cszach">
-    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
 </a>
