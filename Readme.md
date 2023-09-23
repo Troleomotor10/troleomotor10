@@ -17,14 +17,14 @@ Interested in building fun, interactive, and beautiful experiences
     <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/zach-nguyen">
+<a href="https://www.linkedin.com/in/oriolabadal/">
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
-<a href="https://paypal.me/dnguy38">
+<a href="https://paypal.me/troleomotor10">
     <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
 </a>
 
-<a href="https://www.instagram.com/thechonkypenguin">
+<a href="https://www.instagram.com/troleomotor10/">
     <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
