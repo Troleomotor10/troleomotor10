@@ -39,8 +39,10 @@ I am Oriol. I am 18 and I am from Barcelona, Spain. I am a tech enthusiast inter
 
 <details>
 <summary>:zap: GitHub Stats</summary>
+
 ![Troleomotor10 Github stats](https://github-readme-stats.vercel.app/api?username=Troleomotor10&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast)
 ![Troleomotor10 Github most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=troleomotor10&theme=highcontrast&hide_langs_below=4)
+
 </details>
 
 <br>
