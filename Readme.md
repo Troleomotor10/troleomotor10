@@ -6,8 +6,8 @@ I am Oriol. I am 18 and I am from Barcelona, Spain. I am a tech enthusiast inter
 
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily: **JavaScript**, **Python**, **Git**, **VS Code**
-- 🌱 I’m currently learning everything 🤣
-- 💬 Talk to me about computers 🖥, Memes, Movies 🎥, videogames 🎮, stage lighting
+- 🌱 I am currently expanding my skills to strengthen my knowledge base
+- 💬 Talk to me about computers 🖥, Movies 🎥, videogames 🎮, stage lighting 🎇
 
 ### 🛠️ LANGUAGES AND TOOLS:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
