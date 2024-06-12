@@ -1,13 +1,13 @@
-# Hi, I'm Troleomotor10 👋 👨🏻‍💻
+# Hi, I'm Oriol Abadal 👋 👨🏻‍💻
 
 ### ✨ABOUT ME
 
-I am Oriol. I am 18 and I am from Barcelona, Spain. I am a tech enthusiast interested in building fun, interactive and beautiful experiences. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me.
+I’m Oriol, a 18-year-old tech enthusiast from Barcelona, Spain. I specialize in creating fun, interactive, and visually stunning experiences. I am always open to collaborating on innovative and disruptive projects. Feel free to connect with me!
 
 - 🏢 I'm currently working at **Worklife**
-- 🚀 I use daily: **JavaScript**, **Python**, **Git**, **VS Code**
+- 🚀 I use daily: **JavaScript**, **Astro**, **Python**, **Git**, **VS Code**, **Obsidian**
 - 🌱 I am currently expanding my skills to strengthen my knowledge base
-- 💬 Talk to me about computers 🖥, Movies 🎥, videogames 🎮, stage lighting 🎇
+- 💬 Talk to me about computers 🖥, Music 🎧, videogames 🎮, stage lighting 🎇
 
 ### 🛠️ LANGUAGES AND TOOLS:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
